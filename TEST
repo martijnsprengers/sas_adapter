@@ -1,0 +1,9 @@
+#company_code#,#CURRKEY#,#CURRDEC#,#MANDT#,#hash#
+#CC1#,#HHH#,#fix#,#1#,#hash1#
+#CC1#,#HHH#,#fix#,#1#,#hash2#
+#CC1#,#AAA#,#fixx#,#2#,#hash3#
+#CC1#,#AAA#,#fi#,#3#,#hash4#
+#CC1#,#BBB#,#f#,#4#,#hash5#
+#CC1#,#CCC#,#fix#,#5#,#hash6#
+#CC1#,#DDD#,#ffix#,#6#,#hash7#
+#CC1#,#EEE#,#fix#,#fail#,#hash8#
